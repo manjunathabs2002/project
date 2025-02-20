@@ -57,6 +57,10 @@ The AI-Powered Code Reviewer is a tool designed to assist developers in reviewin
 curl -X POST http://localhost:3000/generate -H "Content-Type: application/json" -d '{"prompt": "Review this code..."}'
 ```
 
+## Screenshot
+
+![Project Screenshot](./screenshot.png)
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
